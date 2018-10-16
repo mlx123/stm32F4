@@ -39,5 +39,3 @@
 ..\obj\dcmi.o: ..\HARDWARE\LCD\lcd.h
 ..\obj\dcmi.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
 ..\obj\dcmi.o: ..\HARDWARE\LED\led.h
-..\obj\dcmi.o: ..\HARDWARE\OV2640\ov2640.h
-..\obj\dcmi.o: ..\HARDWARE\OV2640\sccb.h
